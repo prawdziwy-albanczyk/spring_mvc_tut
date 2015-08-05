@@ -26,5 +26,6 @@ hs_err_pid*
 # IntellijIdea project directory
 .idea
 spring_mvc_tut.iml
+.gitignore
 
 
