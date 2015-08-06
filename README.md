@@ -1,1 +1,1 @@
-# spring_mvc_tut
+# spring_mvc_tut project
